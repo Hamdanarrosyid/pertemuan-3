@@ -27,6 +27,7 @@ nav li {
     display: inline-block;
     font-size: 12px;
     padding: 10px;
+    cursor: pointer;
 }
 
 main {
